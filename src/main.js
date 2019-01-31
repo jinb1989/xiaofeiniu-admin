@@ -64,6 +64,7 @@ Vue.filter('tableStatus',(val)=>{
 
 })
 
+//核心的根组件
 new Vue({
   router,
   store,              //指定当前项目唯一的vuex存储仓库对象，其中保存着可供所有组件共享的数据

@@ -29,8 +29,8 @@ export default {
   data(){   //普通组件的模型数据是函数返回值
     return {
       formData: { //表单中用户输入的两个数据
-        aname: 'admin',
-        apwd: '123456'
+        aname: 'boss',
+        apwd: '999999'
       }
     }
   },
